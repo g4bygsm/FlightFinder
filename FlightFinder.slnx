@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FlightFinder.ConsoleApp/FlightFinder.ConsoleApp.csproj" />
+  <Project Path="FlightFinder.Core/FlightFinder.Core.csproj" />
+</Solution>
